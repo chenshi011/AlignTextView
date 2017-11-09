@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlignTextView</string>
+    <string name="test">这是一段中英文混合hunhe的wenben，不要告诉我why不是英文，我也不知道这是为了什么.我也觉得好难看</string>
+</resources>
